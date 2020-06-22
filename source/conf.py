@@ -32,7 +32,7 @@ release = '0.1.1'
 # ones.
 extensions = [
     'sphinx.ext.autodoc',
-    'rst2pdf.pdfbuilder'
+    #'rst2pdf.pdfbuilder'
 ]
 
 # Add any paths that contain templates here, relative to this directory.
