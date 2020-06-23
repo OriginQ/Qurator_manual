@@ -32,7 +32,6 @@ release = '0.1.1'
 # ones.
 extensions = [
     'sphinx.ext.autodoc'
-    #'rst2pdf.pdfbuilder'
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -63,5 +62,5 @@ html_theme = 'sphinx_rtd_theme'
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
 
-#master_doc. From StackOverflow
+# The master toctree document.
 master_doc = 'index'
